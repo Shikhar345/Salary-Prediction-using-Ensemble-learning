@@ -1,0 +1,7 @@
+YearsExperience,EducationLevel,Age,City,JobRole,Salary
+1,Bachelors,22,Delhi,Engineer,300000
+3,Masters,25,Mumbai,Data Scientist,600000
+5,Bachelors,28,Delhi,Manager,800000
+2,PhD,26,Bangalore,Engineer,500000
+4,Masters,27,Hyderabad,Manager,750000
+6,PhD,30,Mumbai,Data Scientist,950000
